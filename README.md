@@ -1,5 +1,5 @@
-# README
-Vulnerability Scanner
+#README
+🔍 Vulnerability Scanner
 
 Deskripsi Singkat
 Vulnerability Scanner ini dirancang untuk mendeteksi celah keamanan pada sistem dan aplikasi. Dengan tool ini, pengguna dapat melakukan pemindaian dan mendapatkan laporan terkait potensi risiko keamanan.
@@ -26,8 +26,8 @@ SQLmap – Untuk pengujian SQL Injection
 
 1. Clone repository ini:
 
-git clone https://github.com/haris-raja-iblis/autoscanner.git
-cd autoscanner
+git clone https://github.com/username/repo-name.git
+cd repo-name
 
 
 2. Install dependensi:
