@@ -1,7 +1,8 @@
 #README
+
 🔍 AutoScanner
 
-Deskripsi Singkat
+
 AutoScanner adalah alat pemindaian otomatis untuk mendeteksi kerentanan keamanan pada sistem dan aplikasi. Dengan tool ini, pengguna dapat melakukan scanning dan mendapatkan laporan tentang potensi risiko keamanan.
 
 ✨ Fitur Utama
