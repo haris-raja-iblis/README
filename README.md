@@ -1,8 +1,8 @@
 #README
-🔍 Vulnerability Scanner
+🔍 AutoScanner
 
 Deskripsi Singkat
-Vulnerability Scanner ini dirancang untuk mendeteksi celah keamanan pada sistem dan aplikasi. Dengan tool ini, pengguna dapat melakukan pemindaian dan mendapatkan laporan terkait potensi risiko keamanan.
+AutoScanner adalah alat pemindaian otomatis untuk mendeteksi kerentanan keamanan pada sistem dan aplikasi. Dengan tool ini, pengguna dapat melakukan scanning dan mendapatkan laporan tentang potensi risiko keamanan.
 
 ✨ Fitur Utama
 
@@ -25,18 +25,20 @@ SQLmap – Untuk pengujian SQL Injection
 🚀 Cara Instalasi
 
 1. Clone repository ini:
+ '''bash
+git clone https://github.com/username/autoscanner.git
+cd autoscanner
 
-git clone https://github.com/username/repo-name.git
-cd repo-name
 
+3. Install dependensi:
 
-2. Install dependensi:
-
+'''bash
 pip install -r requirements.txt
 
 
 3. Jalankan scanner:
 
+''' bash
 python scanner.py --target http://example.com
 
 
