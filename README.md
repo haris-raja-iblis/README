@@ -25,22 +25,23 @@ SQLmap – Untuk pengujian SQL Injection
 🚀 Cara Instalasi
 
 1. Clone repository ini:
- '''bash
-git clone https://github.com/username/autoscanner.git
+```bash
+git clone https://github.com/haris-raja-iblis/autoscanner.git
 cd autoscanner
+```
 
 
 3. Install dependensi:
 
-'''bash
+```bash
 pip install -r requirements.txt
-
+```
 
 3. Jalankan scanner:
 
-''' bash
+```bash
 python scanner.py --target http://example.com
-
+```
 
 
 📌 Cara Penggunaan
